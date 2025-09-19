@@ -1,0 +1,13 @@
+.card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:14px;border-radius:12px;box-shadow:0 6px 18px rgba(2,6,23,0.5)}
+.header{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.title{margin:0;font-size:16px}
+.sub{font-size:12px;color:rgba(230,238,248,0.7)}
+.metrics{display:flex;gap:12px}
+.metric{background:rgba(255,255,255,0.02);padding:8px;border-radius:10px;text-align:center;min-width:110px}
+.num{font-size:20px;font-weight:700}
+.label{font-size:12px;color:rgba(230,238,248,0.7)}
+.charts{display:flex;flex-direction:column;gap:12px;margin-top:12px}
+.chartBox{background:rgba(255,255,255,0.01);padding:10px;border-radius:10px}
+.chartTitle{font-size:13px;margin-bottom:6px}
+.hint{margin-top:10px;font-size:13px;color:rgba(230,238,248,0.8)}
+.badge{margin-top:6px;background:rgba(96,165,250,0.07);padding:8px;border-radius:8px;font-size:13px}
